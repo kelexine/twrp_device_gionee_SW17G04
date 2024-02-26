@@ -1,4 +1,4 @@
-# Android device tree for GIONEE GIONEE S10L (SW17G04)
+# TWRP device tree for GIONEE GIONEE S10L (SW17G04)
 
 ```
 # Work in Progress
