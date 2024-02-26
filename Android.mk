@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),GIONEE_SW17G04)
+ifeq ($(TARGET_DEVICE),SW17G04)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif

@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_GIONEE_SW17G04-user
-add_lunch_combo omni_GIONEE_SW17G04-userdebug
-add_lunch_combo omni_GIONEE_SW17G04-eng
+add_lunch_combo omni_SW17G04-user
+add_lunch_combo omni_SW17G04-userdebug
+add_lunch_combo omni_SW17G04-eng

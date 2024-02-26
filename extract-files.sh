@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=GIONEE_SW17G04
+DEVICE=SW17G04
 VENDOR=gionee
 
 # Load extract_utils and do some sanity checks

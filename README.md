@@ -1,5 +1,8 @@
-# Android device tree for GIONEE GIONEE S10L (GIONEE_SW17G04)
+# Android device tree for GIONEE GIONEE S10L (SW17G04)
 
+```
+# Work in Progress
+```
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project

@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_GIONEE_SW17G04.mk
+    $(LOCAL_DIR)/omni_SW17G04.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_GIONEE_SW17G04-user \
-    omni_GIONEE_SW17G04-userdebug \
-    omni_GIONEE_SW17G04-eng
+    omni_SW17G04-user \
+    omni_SW17G04-userdebug \
+    omni_SW17G04-eng

@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/gionee/GIONEE_SW17G04
+DEVICE_PATH := device/gionee/SW17G04
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
